@@ -1,3 +1,3 @@
 # RMSTUSCIENCECLUB
-Live view:  https://mohammadkamrulhassan.github.io/RMSTUSC03/
+Live view:  https://KamrulPerson.github.io/RMSTUSC03/
 # RMSTUSC03
